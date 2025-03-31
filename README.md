@@ -2,9 +2,9 @@
 
 COMPANY: CODTECH IT SOLUTIONS
 
-NAME: SAKTHIVEL SARAVANAN
+NAME: LOKESH RAJ J
 
-INTERN ID : CT04WUL
+INTERN ID : CT04XMJ
 
 DOMAIN : PYTHON PROGRAMMING
 
@@ -21,3 +21,5 @@ The script evaluates four different classification models: Naïve Bayes (Multino
 The final part of the script allows users to input a custom review for sentiment analysis. A new CountVectorizer is fitted on the complete dataset, and a Logistic Regression model is retrained using the full data. The user provides a review, which is vectorized and classified as positive or negative based on the trained model. This interactive functionality enhances the practicality of the sentiment analysis tool. Overall, the script effectively demonstrates natural language processing (NLP) techniques and machine learning classifiers to analyze textual sentiment, offering both automated classification and interpretability through token analysis and model evaluation.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/85771eca-fdfa-417f-a2bd-4a4924f4e6ef)
